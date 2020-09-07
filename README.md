@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Emilia
+  Gatsby Starter Portfolio: Mario
 </h1>
 
 <p align="center">
